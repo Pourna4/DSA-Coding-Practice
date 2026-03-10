@@ -1,2 +1,13 @@
-# DSA-Coding-Practice
-Data Structures and Algorithms practice repository containing solutions to coding problems using Java.  If you use different languages, you can write:  Data Structures and Algorithms practice repository with solutions to common coding problems.
+# DSA Practice
+
+This repository contains solutions to Data Structures and Algorithms problems implemented in Java.
+
+Topics Covered
+- Arrays and Matrix problems
+- String manipulation
+- Recursion and Backtracking
+- Sorting Algorithms
+- ArrayList operations
+
+Language Used
+Java
